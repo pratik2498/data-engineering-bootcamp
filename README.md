@@ -41,3 +41,28 @@ SQL Lesson 3: JOINs and multi-table operations.
 DSA Lesson 2: Arrays and Strings.
 
 Consistency is key. 20+ hours a week.
+
+
+Current Goal: Transition from MuleSoft Developer to Data Engineer (Remote EU/US) within 8 months.Current Week: Week 3
+Session Status: All backlog exercises cleared. Core Python foundations established!
+
+✅ COMPLETED TODAY:
+DSA (Data Structures & Algorithms): Mastered the definition of algorithms and Big-O notation (O(1) Constant Time vs. O(N) Linear Time).
+
+Big Picture: Solidified understanding of data movement: ETL vs. ELT (Transform in transit vs. Transform in warehouse) and Batch vs. Streaming (Scheduled chunks vs. Real-time events).
+
+AI for DE: Addressed LLM hallucinations and established the golden rule for AI coding: always verify with automated tests (like MUnit).
+
+SQL (Lesson 2): Mastered Aggregate functions (SUM()) and data bucketing using the GROUP BY and FROM clauses.
+
+Python Foundations:
+
+Variables & Data Types: Strings, Integers, Floats, and Booleans.
+
+Data Structures: Lists (Arrays/[]) and Dictionaries (JSON objects/{}).
+
+Functions: Reusable logic blocks using def, parameters, and return with strict 4-space indentation.
+
+JSON & APIs: Parsing strings to dictionaries (json.loads()) and stringifying dictionaries to text (json.dumps()).
+
+File I/O: Safely opening and writing to local files using the with open("filename", "w") as file: structure.
